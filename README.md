@@ -1,4 +1,4 @@
-Olá! Eu sou Lucas Fialho 👋
+Olá! Eu sou o Lucas Fialho 👋
 Sou um estudante de Análise e Desenvolvimento de Sistemas na FIAP, atualmente no segundo semestre. Apaixonado por tecnologia e desenvolvimento de software, estou constantemente aprendendo e buscando novas habilidades para aprimorar meus conhecimentos.
 
 🚀 Sobre Mim

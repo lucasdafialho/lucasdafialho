@@ -1,4 +1,4 @@
-# Olá! Eu sou Lucas 👋
+# Olá! Eu sou o Lucas 👋
 
 ## Sobre Mim
 

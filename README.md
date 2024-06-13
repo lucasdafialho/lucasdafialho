@@ -7,6 +7,7 @@ Desenvolvedor apaixonado por tecnologia e estudante de Análise e Desenvolviment
 ## Habilidades
 
 - **Linguagens:** Java, JavaScript, Python
+- **WEB DEV:** HTML5, CSS3
 - **Ferramentas:** Git, GitHub, VS Code, IntelliJ IDEA
 - **Banco de Dados:** MySQL
 

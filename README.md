@@ -9,10 +9,10 @@ Eu sou o **Lucas**, desenvolvedor entusiasta por tecnologia e aprendizado contí
 
 Estou sempre em busca de experiências que me desafiem, me conectem com pessoas incríveis e me façam crescer como profissional e pessoa. 
 
-  <a href="mailto:lucas.ffialho06@gmail.com">
+  <a href="mailto:lucas.ffialho06@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF6584&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
   </a> 
-  <a href="https://www.linkedin.com/in/lucas-fialho-0389932ab/">
+  <a href="https://www.linkedin.com/in/lucas-fialho-0389932ab/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
 

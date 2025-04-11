@@ -9,8 +9,6 @@
 
 ## 🌟 Sobre Mim
 
-<img align="right" alt="cat-coding-gif" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
-
 Eu sou o **Lucas**, desenvolvedor entusiasta por tecnologia e aprendizado contínuo. Atualmente curso **Análise e Desenvolvimento de Sistemas** e aplico meus conhecimentos em projetos de IA / DeepLearning que unem teoria, prática e propósito.
 
 Estou sempre em busca de experiências que me desafiem, me conectem com pessoas incríveis e me façam crescer como profissional e pessoa. 

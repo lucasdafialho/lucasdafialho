@@ -1,13 +1,9 @@
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWk2MGhnNjBkMjF5azNzdWd6cndiYWthdzRoNWZsbGIwdnpnM2lybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xBwdIuRJiAIqHwA/giphy.gif" width="100" alt="Gif com saudações" />
-</div>
-
-<h1 align="center"> 👩‍💻 Seja bem-vindo(a) ao meu GitHub! </h1> 
+<h1 align="center">  Seja bem-vindo(a) ao meu GitHub! </h1> 
 <p align="center"><i>Cientista de Dados | Análise e Desenvolvimento de Sistemas - FIAP</i></p>
 
 ---
 
-## 🌟 Sobre Mim
+##  Sobre Mim
 
 Eu sou o **Lucas**, desenvolvedor entusiasta por tecnologia e aprendizado contínuo. Atualmente curso **Análise e Desenvolvimento de Sistemas** e aplico meus conhecimentos em projetos de IA / DeepLearning que unem teoria, prática e propósito.
 

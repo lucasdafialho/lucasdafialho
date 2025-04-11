@@ -12,7 +12,7 @@ Estou sempre em busca de experiências que me desafiem, me conectem com pessoas 
   <a href="mailto:lucas.ffialho06@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF6584&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
   </a> 
-  <a href="https://www.linkedin.com/in/francine-ccruz/">
+  <a href="https://www.linkedin.com/in/lucas-fialho-0389932ab/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
 

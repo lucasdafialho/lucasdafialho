@@ -5,7 +5,7 @@
 
 ##  Sobre Mim
 
-Eu sou o **Lucas**, desenvolvedor entusiasta por tecnologia e aprendizado contínuo. Atualmente curso **Análise e Desenvolvimento de Sistemas** e aplico meus conhecimentos em projetos de IA / DeepLearning que unem teoria, prática e propósito.
+Eu sou o **Lucas**, desenvolvedor entusiasta por tecnologia e aprendizado contínuo. Atualmente curso **Análise e Desenvolvimento de Sistemas** e aplico meus conhecimentos em projetos de IA / Deep Learning que unem teoria, prática e propósito.
 
 Estou sempre em busca de experiências que me desafiem, me conectem com pessoas incríveis e me façam crescer como profissional e pessoa. 
 
